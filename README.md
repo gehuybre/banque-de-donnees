@@ -1,1 +1,1 @@
-# banque-de-donnees
+# kennisdatabank
